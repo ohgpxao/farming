@@ -10,7 +10,7 @@ OKX目前是全球前三的加密货币交易所，在180多个国家拥有超�
 
 OKX成立于2017年，总部位于塞舌尔。它不只是个简单的买卖平台——你可以在这里进行现货交易、合约交易、质押赚币、参与DeFi项目，甚至买卖NFT。
 
-![OKX交易平台界面](image/32672317.webp)
+<img width="3900" height="2925" alt="image" src="https://github.com/user-attachments/assets/24b13b77-26e0-44bd-93ea-946fae5656f9" />
 
 **为什么用户喜欢OKX：**
 
